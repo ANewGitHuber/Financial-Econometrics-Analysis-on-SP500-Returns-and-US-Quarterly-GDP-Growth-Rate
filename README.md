@@ -62,6 +62,7 @@ A criterion for model selection among a finite set of models. It is based on the
 
 A criterion used to compare different models and select the one that best explains the data while avoiding overfitting. It balances the model’s complexity against its goodness of fit.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/3ceed666-00a3-4f5e-9e5f-d4507a20ea3d)
+![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/d74c566d-c180-471c-9dd1-285a04122107)
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/d3bd8d79-38d1-412f-a41d-3b93175f3330)
 
 - Augmented Dickey-Fuller (ADF) Test
