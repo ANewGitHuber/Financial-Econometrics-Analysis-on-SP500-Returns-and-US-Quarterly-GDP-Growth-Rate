@@ -17,7 +17,7 @@ library(fUnitRoots)
 
 Use install.packages("") to install the libraries if you haven't done so yet.
 
-## Econometrics Methodologies in this Project
+## Econometrics Methodologies in the Project
 - Multiple Linear Regression Model
 
 Provides modelling on the Weekday Effects.
