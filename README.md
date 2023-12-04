@@ -32,7 +32,7 @@ Provides consistent standard errors for coefficient estimates in the presence of
 
 - Autoregressive Conditional Heteroskedasticity (ARCH(1) Model)
 
-Describes and predict time series data, particularly the volatility of financial time series.
+Describes and predicts time series data, particularly the volatility of financial time series.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/86c1cc84-3919-47dd-8abf-584c07fa8637)
 
 - Generalized Autoregressive Conditional Heteroskedasticity (GARCH(1,1) Model)
@@ -72,6 +72,6 @@ A criterion used to compare different models and select the one that best explai
 Tests for a unit root in the time series. This test can help determine whether a time series is stationary or not, which is a critical aspect of many time series analyses, including AR modelling.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/4cd385a0-1983-403f-89fb-45a200818137)
 
-See Report PDF for full descriptions.
+See report PDF for full descriptions.
 
 @John Chen, 2023, Imperial College London. All rights to source codes are reserved.
