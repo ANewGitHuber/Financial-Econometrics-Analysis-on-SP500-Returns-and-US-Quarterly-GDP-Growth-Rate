@@ -70,6 +70,6 @@ A criterion used to compare different models and select the one that best explai
 Tests for a unit root in the time series. This test can help determine whether a time series is stationary or not, which is a critical aspect of many time series analyses, including AR modelling.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/4cd385a0-1983-403f-89fb-45a200818137)
 
-See Report PDF for full description.
+See Report PDF for full descriptions.
 
 @John Chen, 2023, Imperial College London. All rights to source codes are reserved.
