@@ -48,7 +48,7 @@ A time series model used to explore the correlation between a time series and it
 Explains a variable in terms of its own previous value. Characterized by a single lagged term of the variable.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/d41e3e74-6071-4c05-a478-012b26154270)
 
-- Autoregressive Model of Order 3 (AR(3) Model)
+- Autoregressive Model of Order 2 (AR(2) Model)
 
 A time series model where the current value of the series is explained by its own two previous values. This model is useful when the data shows evidence of being influenced by the last two periods.
 ![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/689c6ca0-cddc-4fd3-8dad-54fa5de034f6)
