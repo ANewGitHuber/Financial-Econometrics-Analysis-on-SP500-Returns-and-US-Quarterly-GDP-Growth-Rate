@@ -1,10 +1,10 @@
-### Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate
+## Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate
 
 This project provides financial econometrics analysis on:
 S&P-500 Returns (Jan 1980 - Dec 2008)
 US Quarterly GDP Growth Rate (Q1 1955 - Q4 2004)
 
-## Packages
+### Packages
 library(readxl)
 library(stats)
 library(sandwich)
@@ -17,7 +17,7 @@ library(fUnitRoots)
 
 Use install.packages("") to install the libraries if you haven't done so yet.
 
-## Econometrics Methodologies in the Project
+### Econometrics Methodologies in the Project
 - Multiple Linear Regression Model
 
 Provides modelling on the Weekday Effects.
