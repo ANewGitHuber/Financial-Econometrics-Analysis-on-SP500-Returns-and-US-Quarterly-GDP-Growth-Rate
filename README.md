@@ -6,13 +6,21 @@ US Quarterly GDP Growth Rate (Q1 1955 - Q4 2004)
 
 ### Packages
 library(readxl)
+
 library(stats)
+
 library(sandwich)
+
 library(lmtest)
+
 library(rugarch)
+
 library(fGarch)
+
 library(dplyr)
+
 library(forecast)
+
 library(fUnitRoots)
 
 Use install.packages("") to install the libraries if you haven't done so yet.
