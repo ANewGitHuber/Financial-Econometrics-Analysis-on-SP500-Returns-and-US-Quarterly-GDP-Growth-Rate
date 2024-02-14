@@ -28,6 +28,7 @@ Provides modelling on the Weekday Effects.
 - Newey West Estimator Analysis
 
 Provides consistent standard errors for coefficient estimates in the presence of heteroskedasticity and autocorrelation. The estimator adjusts the covariance matrix of the coefficient estimates to account for these issues, thus improving the reliability of hypothesis testing.
+<<<<<<< HEAD
 
 $\text{Var}(\hat{\beta})_{NW} = \left( X'X \right)^{-1} \left( \sum_{t=1}^T \epsilon_t^2 X_t X_t' + \sum_{l=1}^L w_l \sum_{t=l+1}^T \epsilon_t \epsilon_{t-l} (X_t X_{t-l}' + X_{t-l} X_t') \right) \left( X'X \right)^{-1}$
 
@@ -41,6 +42,9 @@ where:
 
 Use the Newey West estimator of the covariance matrix to obtain the t-ratio of regression estimates.
 
+=======
+![image](https://github.com/ANewGitHuber/Financial-Econometrics-Analysis-on-SP500-Returns-and-US-Quarterly-GDP-Growth-Rate/assets/88078123/177caff9-529f-4dcf-a07c-353b4909aef2)
+>>>>>>> parent of 85aa8cc (Update README.md)
 
 - Autoregressive Conditional Heteroskedasticity (ARCH(1) Model)
 
